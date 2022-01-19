@@ -1,0 +1,1 @@
+Bu da local beni oku dosyası
